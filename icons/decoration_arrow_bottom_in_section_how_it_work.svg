@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 45 24" width="52" height="28">
+	<title>Polygon 1</title>
+	<defs>
+		<image  width="43" height="24" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAAAYCAMAAABUbfTxAAAAAXNSR0IB2cksfwAAAIRQTFRFABAgBRIuBBMtBRMtBRMtABAwBRQtBRMtBRItBBMsBRIuJDFHgomWBBMsEBAwAAAABRMt4OHl////7/DyND9VU11vRE5iYmt7BBQscnqIBhIs0NPXwMTKFSI6oqexkpikBRIuBRQrBRMtBRMqAxMtBBItBRAqBRAwBRItCBAwBBIsBRIrx+LvhAAAACx0Uk5TEI/v/58Qj+/vkM///78QAKD/////////gP+A//////9wcGBgUO8wMN8gz5/gP4WTAAAA1UlEQVR4nI3SbVODMBAE4NiAtYIuBGpbse8Wwf7//9cDtXdwwcnOZGZ37vkYYx5mNiSzKDZRkOzyaIKpnZuncGwWwTQy8bOYSZpMrpdXA2S8c1eU91EWLudTBpAVOHeuWP72t8IJS7S3jBPCbtXXFbU8kfTHYj3AKZXNgL6DrcKph/5ZgStiH/Sq7YjeLeNth4krypax3RHdWUWFFXjv9h4qLQ5W5wi/xUnRM6aswgM6sviUX/QypGOLmvHlC/9bxopqi7qZoB6LtsNNqw8eizb7vnoobkMqKHON6fb6AAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="1" y="0"/>
+</svg>
